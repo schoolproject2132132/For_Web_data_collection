@@ -1,12 +1,6 @@
-# For_Web_data_collection
-
-Great—based on your project name and purpose, here’s a tailored **README.md** you can use:
-
----
-
 # 📊 For\_Web\_Data\_Collection - School Project 2132132
 
-A powerful, automated website data collection script designed to streamline reconnaissance and gather comprehensive information about websites. This project is built for **educational purposes** to demonstrate practical web reconnaissance techniques.
+A powerful, automated website data collection script designed to streamline reconnaissance and gather comprehensive information about websites. This project is built for educational purposes to demonstrate practical web reconnaissance techniques.
 
 ---
 
@@ -20,10 +14,10 @@ This Bash script performs automated reconnaissance on a given website using **30
 * SSL/TLS security details
 * Subdomains
 * Public information leaks
-* Directory bruteforce findings
+* Directory brute-force findings
 * Archived links and much more
 
-All findings are compiled into a well-organized report in a `.txt` file.
+All findings are compiled into a well-organised report in a .txt file.
 
 ---
 
@@ -86,7 +80,3 @@ See the [LICENSE](./LICENSE) file for full details.
 
 This tool is strictly for **educational purposes** within the scope of **School Project 2132132**.
 Do **not** use this tool against unauthorized targets. Always respect applicable cyber laws.
-
----
-
-If you'd like, I can generate the exact files (`README.md`, `LICENSE`, `script.sh`) in a zipped format or GitHub structure—just let me know!
