@@ -26,7 +26,7 @@ All findings are compiled into a well-organised report in a .txt file.
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/schoolproject2132132/For_Web_data_collection.git
+https://github.com/schoolproject2132132/For_Web_data_collection.git
 cd For_Web_data_collection
 ```
 
